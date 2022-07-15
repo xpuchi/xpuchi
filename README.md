@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🙋‍♀️ My name is Barbara
-- 🌱 I’m currently learning: Front-End tools
+- 🌱 I’m currently learning: React
 - 📫 How to reach me: bargeorgos@gmail.com
 - 😄 Pronouns: She/Her 
 
